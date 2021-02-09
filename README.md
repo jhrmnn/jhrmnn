@@ -6,7 +6,7 @@ Most of my programming is related to my [research](https://jan.hermann.name/) in
 
 - [DeepQMC](https://github.com/deepqmc/deepqmc)—Pytorch implementation of quantum Monte Carlo with deep neural network ansatzes
 - [PyBerny](https://github.com/jhrmnn/pyberny)—Python package for optimizing molecular geometries, supported by [PySCF](https://github.com/pyscf/pyscf), [ASE](https://gitlab.com/ase/ase), and [QCEngine](https://github.com/MolSSI/QCEngine)
-- [Libmbd](https://github.com/jhrmnn/libmbd)—Fortran/Python library implementing the many-body dispersion method, embedded in [FHI-aims](https://aimsclub.fhi-berlin.mpg.de), [DFTB+](https://github.com/dftbplus/dftbplus), and [Quantum Espress](https://gitlab.com/QEF/q-e)
+- [Libmbd](https://github.com/jhrmnn/libmbd)—Fortran/Python library implementing the many-body dispersion method, embedded in [FHI-aims](https://aimsclub.fhi-berlin.mpg.de), [DFTB+](https://github.com/dftbplus/dftbplus), and [Quantum Espresso](https://gitlab.com/QEF/q-e)
 
 #### Beta projects
 
