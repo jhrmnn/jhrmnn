@@ -1,6 +1,6 @@
 # Software projects
 
-Most of my programming is related to my [research](https://jan.hermann.name/) in computational materials science. I believe that strong computational science benefits from strong software engineering, and that all scientific academic software should be open source.
+Most of my programming is related to my [research](https://jan.hermann.name/) in computational materials science. I believe that strong computational science benefits from strong software engineering, and that all scientific academic software should be open-source.
 
 ### Creator
 
